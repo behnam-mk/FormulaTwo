@@ -10,7 +10,7 @@
 #include <semaphore.h>
 #include "data.h"
 
-//Compile Command: gcc -o car FormulaTwo.c -lglut -lalut -lGL -lopenal -lGLU -pthread -w
+//gcc -o car car6.c -lglut -lalut -lGL -lopenal -lGLU -pthread
 
 struct computerCarData ccdata;
 struct playerCarData pcdata;
