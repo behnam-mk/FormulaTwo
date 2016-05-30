@@ -1,8 +1,8 @@
 # FormulaTwo
 
-Free and opensource game for Linux Distro! 
+Free and opensource game for Linux distroes! 
 
-Based On pure OpenGL and very simple coding with sexy music!
+Based on pure OpenGL and very simple coding with sexy musics!
 
 # Instalation & Run
 
@@ -13,7 +13,7 @@ Install Dependencies (Pre Instalation) :
 sudo apt-get install freeglut3-dev
 </code></pre>
 
-Then you can simply Download and Extract files.Then Execute car.
+Then you can simply Download and Extract files.Then Execute <strong>car</strong>.
 
 
 Enjoy!
