@@ -11,6 +11,7 @@ Install Dependencies (Pre Instalation) :
 You must Install OpenGl Library. For Example you must run these command on Ubuntu:<br>
 <code>
 sudo apt-get install mesa-common-dev
+<br>
 sudo apt-get install freeglut3-dev
 </code>
 
