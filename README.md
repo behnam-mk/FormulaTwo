@@ -8,12 +8,11 @@ Based On pure OpenGL and very simple coding with sexy music!
 
 Install Dependencies (Pre Instalation) :
 
-You must Install OpenGl Library. For Example you must run these command on Ubuntu:<br>
-<code>
+<p>You must Install OpenGl Library. For Example you must run these command on Ubuntu:<p><br>
+<pre><code>
 sudo apt-get install mesa-common-dev
-<br>
 sudo apt-get install freeglut3-dev
-</code>
+</code></pre>
 
 Then you can simply Download and Extract files.Then Execute car.
 
