@@ -9,8 +9,7 @@ Based On pure OpenGL and very simple coding with sexy music!
 Install Dependencies (Pre Instalation) :
 
 <p>You must Install <strong>OpenGl</strong> Library. For Example you must run these commands on <strong>Ubuntu</strong>:<p>
-<pre><code>
-sudo apt-get install mesa-common-dev
+<pre><code>sudo apt-get install mesa-common-dev
 sudo apt-get install freeglut3-dev
 </code></pre>
 
