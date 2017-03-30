@@ -4,6 +4,8 @@ Free and opensource game for Linux distros!
 
 Based on pure OpenGL and very simple coding with sexy musics!
 
+![alt text](FormulaTwo.gif "FormulaTwo")
+
 # Installation & Run
 
 Install Dependencies (Pre Instalation) :
