@@ -1,6 +1,6 @@
 # FormulaTwo
 
-Free and opensource game for Linux distroes! 
+Free and opensource game for Linux distros! 
 
 Based on pure OpenGL and very simple coding with sexy musics!
 
